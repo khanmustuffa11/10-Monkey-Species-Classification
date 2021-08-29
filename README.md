@@ -7,5 +7,5 @@ link to dataset:https://www.kaggle.com/slothkong/10-monkey-species
 
 For more information walk through the main file.
 
-[Authors](https://www.linkedin.com/in/khanmustuffa/)
+[Authors: (Gh Mustuffa Khan)](https://www.linkedin.com/in/khanmustuffa/)
 
