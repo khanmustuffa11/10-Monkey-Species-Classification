@@ -5,5 +5,7 @@ We have used Fast.ai framework to solve this problem with just lines of code.
 Transfer Learning on pre-trained architecture ResntNet was employed.
 link to dataset:https://www.kaggle.com/slothkong/10-monkey-species
 
+For more information walk through the main file.
+
 Authors: @isados and @khanmustuffa
 
